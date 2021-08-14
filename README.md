@@ -1,6 +1,6 @@
 ## Olá, Me chamo Gustavo Tavares ✌️
 
-- 🔭 I currently work as a Junior Support Analyst
+- 🔭 I currently work as Junior Support Analyst
 - 🌱 I’m currently learning Java, Python e Javascript
 - 🎓 I am graduated in systems analysis and development
 
